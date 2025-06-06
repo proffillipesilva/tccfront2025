@@ -32,7 +32,7 @@ function App() {
        <Router>
       <div className="min-h-screen bg-gray-100 font-sans text-gray-900 antialiased flex flex-col">
         {/* Navigation Bar */}
-        <nav className="bg-gradient-to-r from-blue-600 to-blue-800 p-4 shadow-md">
+        <nav className="bg-gradient-to-r from-blue-600 to-red-800 p-4 shadow-md">
           <div className="container mx-auto flex flex-col sm:flex-row justify-between items-center">
             <div className="text-white text-2xl font-extrabold mb-4 sm:mb-0">
               My React App
